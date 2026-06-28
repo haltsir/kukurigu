@@ -108,3 +108,7 @@ most faithful test of the lock-screen / Doze behavior.
 - **Polar regions:** When a phase does not occur (e.g. no astronomical dawn near the
   summer solstice at high latitude), that alarm is simply skipped until a day it
   occurs again.
+
+## License
+
+Released under the [MIT License](LICENSE).
