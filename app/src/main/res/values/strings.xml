@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kukurigu</string>
+    <string name="alarms_title">Sunrise Alarms</string>
+    <string name="location_title">Location</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="snooze">Snooze</string>
+    <string name="notification_channel_name">Sunrise Alarm</string>
+    <string name="notification_channel_description">Wake-up alarms synced to the sunrise</string>
+</resources>

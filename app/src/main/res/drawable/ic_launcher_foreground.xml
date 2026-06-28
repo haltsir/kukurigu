@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Tail feathers (behind) -->
+    <path
+        android:fillColor="#FF1FA89A"
+        android:pathData="M32,66 Q16,58 14,40 Q30,48 40,62 Z" />
+    <path
+        android:fillColor="#FFE8590C"
+        android:pathData="M34,64 Q18,48 20,28 Q34,42 42,60 Z" />
+    <path
+        android:fillColor="#FF7C5CFF"
+        android:pathData="M38,62 Q30,42 32,24 Q44,40 46,58 Z" />
+
+    <!-- Legs + feet -->
+    <path
+        android:strokeColor="#FFD9821B"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,82 L41,93 M54,82 L57,93" />
+    <path
+        android:strokeColor="#FFD9821B"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M41,93 L37,96 M41,93 L41,97 M41,93 L45,96 M57,93 L53,96 M57,93 L57,97 M57,93 L61,96" />
+
+    <!-- Body -->
+    <path
+        android:fillColor="#FFFFF1DC"
+        android:pathData="M27,64 a21,21 0 1,0 42,0 a21,21 0 1,0 -42,0 Z" />
+
+    <!-- Folded wing -->
+    <path
+        android:fillColor="#FFF2C99A"
+        android:pathData="M36,62 Q48,55 60,64 Q48,74 36,62 Z" />
+
+    <!-- Head -->
+    <path
+        android:fillColor="#FFFFF1DC"
+        android:pathData="M47,44 a15,15 0 1,0 30,0 a15,15 0 1,0 -30,0 Z" />
+
+    <!-- Comb (three red bumps) -->
+    <path
+        android:fillColor="#FFE5322B"
+        android:pathData="M46,32 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0 Z" />
+    <path
+        android:fillColor="#FFE5322B"
+        android:pathData="M53.5,28 a6.5,6.5 0 1,0 13,0 a6.5,6.5 0 1,0 -13,0 Z" />
+    <path
+        android:fillColor="#FFE5322B"
+        android:pathData="M62,32 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0 Z" />
+
+    <!-- Wattle -->
+    <path
+        android:fillColor="#FFE5322B"
+        android:pathData="M66,57 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0 Z" />
+
+    <!-- Beak (crowing) -->
+    <path
+        android:fillColor="#FFF9A825"
+        android:pathData="M76,42 L89,46 L76,51 Z" />
+
+    <!-- Eye -->
+    <path
+        android:fillColor="#FF2A1B12"
+        android:pathData="M62.5,42 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0 Z" />
+</vector>
